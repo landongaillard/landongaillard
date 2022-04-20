@@ -2,7 +2,7 @@
 E-mail: landon.gaillard@gmail.com
 
 ### About
-I'm currently a sophomore in Computer Science at Mississippi State University. I have intermediate experience in Python and C++, and am currently interested in learning Java and working with the Arduino platform.
+I'm currently a sophomore in Computer Science at Mississippi State University. I have intermediate-ish experience in Python and C++.
 
 <!---
 landongaillard/landongaillard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
