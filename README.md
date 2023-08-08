@@ -2,7 +2,7 @@
 E-mail: landon.gaillard@gmail.com
 
 ### About
-Sophomore in Computer Science at Mississippi State University.
+Junior in Computer Science at Mississippi State University.
 
 <!---
 landongaillard/landongaillard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
